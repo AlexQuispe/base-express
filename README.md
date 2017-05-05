@@ -16,4 +16,4 @@ Para instalar el proyecto ver el archivo
 
 ### Referencias:
 - Express http://expressjs.com/es/
-- Express application generator https://expressjs.com/en/starter/generator.html
+- Generador de aplicaciones Express http://expressjs.com/es/starter/generator.html
