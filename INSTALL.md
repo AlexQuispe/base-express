@@ -12,4 +12,4 @@ $ `npm install`
 ### 4. Desplegamos la aplicación
 $ `npm start`
 
-Ahora podemos ver la aplicacipon ejecutandose sobre http://localhost:8000/
+Ahora podemos ver la aplicación ejecutándose sobre http://localhost:8000/
